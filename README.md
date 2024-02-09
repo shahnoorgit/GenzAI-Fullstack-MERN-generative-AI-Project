@@ -4,9 +4,9 @@ Welcome to GenZAI, a full-stack web application that empowers you to transform t
 
 #Key Features:
 
-*Effortless Text-to-Image Generation: Simply describe your vision, and GenZAI brings it to life with incredible visuals powered by OpenAI DALL-E.
-*Intuitive and User-Friendly Interface: Navigate GenZAI with ease thanks to the clean and modern interface built with Tailwind CSS.
-*Robust and Scalable Architecture: The MERN stack ensures a reliable and flexible foundation for your application, ready to handle growing needs.
-*Secure Image Storage: Trustfully store your generated images in the cloud using Cloudinary's secure and efficient storage solutions.
-*Open-Source and Collaborative: Contribute to the ongoing development of GenZAI and learn from a vibrant community.
+*Effortless Text-to-Image Generation: Simply describe your vision, and GenZAI brings it to life with incredible visuals powered by OpenAI DALL-E.   
+*Intuitive and User-Friendly Interface: Navigate GenZAI with ease thanks to the clean and modern interface built with Tailwind CSS.       
+*Robust and Scalable Architecture: The MERN stack ensures a reliable and flexible foundation for your application, ready to handle growing needs.     
+*Secure Image Storage: Trustfully store your generated images in the cloud using Cloudinary's secure and efficient storage solutions.       
+*Open-Source and Collaborative: Contribute to the ongoing development of GenZAI and learn from a vibrant community.       
 
