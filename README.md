@@ -1,4 +1,5 @@
 # GenZAI: Unleash Your Creativity with AI Image Generation (MERN)
+live WEbAPP link - https://65c739965afb41498450e9da--peppy-frangipane-096f75.netlify.app/
 
 Welcome to GenZAI, a full-stack web application that empowers you to transform text into stunning visuals using the cutting-edge OpenAI DALL-E model. Built with the powerful MERN stack (Node.js, Express.js, MongoDB, React.js) and enhanced by the popular Tailwind CSS framework, GenZAI offers a seamless and visually captivating experience for users of all skill levels.
 
